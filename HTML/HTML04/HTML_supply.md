@@ -135,13 +135,13 @@ figure的标题，必须是figure内嵌的第一个或者最后一个元素。
 | ins    | 插入字    |
 | del    | 删除字    |
 
-# html全局属性
+## html全局属性
 
-## 概述
+### 概述
 
 HTML全局属性是可以应用于几乎所有（部分属性有一定的应用范围限制）的HTML标签的属性，现在已知的属性有16个，其中有一半左右是HTML5标准后出现的，很多属性在我们之前的学习中都已经接触过了的，能熟练地记识这些属性能够给我们之后的Web开发带来很多便利，减少开发中所犯的一些低级错误。作为一个Web前端工程师，能够准确地区分全局属性和特殊属性也是一项重要的基本功。接下来我们就来看看在HTML中哪些属性能够作为并为大部分主流浏览器所兼容的全局属性。
 
-## 全局属性
+### 全局属性
 
 #### 1.id
 
@@ -188,3 +188,105 @@ HTML全局属性是可以应用于几乎所有（部分属性有一定的应用�
 #### 5. lang
 
 该属性用于设置元素的语言类型，不支持的标标有<base>，<br>，<frame>，<frameset>，<hr>，<iframe>，<param> 及 <script>，但通常的使用方式是直接给标签设置该属性，如：<html lang="zh-cn">、<html lang="zh">、<html lang="en">这样的形式，分别表示将语言类型设置为“简体中文”、“中文”、“英文”。
+
+## 利用超链接下载指定文件
+
+<a href="文件" download>下载
+
+在a标签对中 添加download属性
+
+## HTML5实用标签
+
+1.<datalist>下拉列表
+
+<datalist> 标签规定了 <input> 元素可能的选项列表。
+
+<datalist> 标签被用来在为 <input> 元素提供"自动完成"的特性。用户能看到一个下拉列表，里边的选项是预先定义好的，将作为用户的输入数据。
+
+请使用 <input> 元素的 list 属性来绑定 <datalist> 元素。
+
+```
+<datalist id="browsers">
+  <option value="Internet Explorer">
+  <option value="Firefox">
+  <option value="Chrome">
+  <option value="Opera">
+  <option value="Safari">
+</datalist>
+```
+
+
+
+2.<output>标签
+
+执行计算然后在 <output> 元素中显示结果：
+
+```
+<form oninput="x.value=parseInt(a.value)+parseInt(b.value)">0
+   <input type="range" id="a" value="50">100
+   +<input type="number" id="b" value="50">
+   =<output name="x" for="a b"></output>
+</form> 
+```
+
+3.<mark>标签
+
+突出显示部分文本:
+
+```
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+```
+
+
+
+4.<meter>标签
+
+使用 meter 元素来度量给定范围（gauge）内的数据：
+
+```
+<meter value="3" min="0" max="10">十分之三</meter>
+
+<meter value="0.6">60%</meter> 
+```
+
+
+
+5.<progress>标签
+
+标记下载进度:
+
+```
+对象的下载进度：
+<progress>
+<span id="objprogress">85</span>%
+</progress>
+```
+
+
+
+6.<audio>标签
+
+一段HTML音频:
+
+```
+<audio src="someaudio.wav">
+您的浏览器不支持 audio 标签。
+</audio>
+```
+
+
+
+7.<video>标签
+
+HTML视频:
+
+```
+<video src="movie.ogg" controls="controls">
+您的浏览器不支持 video 标签。
+</video>
+```
+
+
+
+
+
