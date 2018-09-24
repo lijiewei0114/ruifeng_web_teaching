@@ -1,4 +1,4 @@
-# HTML第一天作业 参考答案 
+# HTML第三天作业 参考答案 
 
 ### 作业题目:
 
@@ -52,8 +52,8 @@
 			</tr>
 			
 			<tr style="border: 1px solid;" align="center">
-	
-	
+
+
 				<td width="90px" style="border: 1px solid;">被动</td>
 				<td width="90px" style="border: 1px solid;">Q</td>
 				<td width="90px" style="border: 1px solid;">W</td>
@@ -113,7 +113,7 @@
 			</table>
 		</body>
 	</html>
-	
+
 3.
 
 	<!DOCTYPE html>

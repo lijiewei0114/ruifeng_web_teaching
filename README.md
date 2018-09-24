@@ -38,5 +38,17 @@
 
 5.[HTML/CSS第四天练习和作业](HTML/HTML04/HTML_test.md)
 
+### 第五天 CSS基础选择器
+
+1.[HTML第四天作业 参考答案](CSS/CSS02/CSS_01_unswer.md)
+
+2.[CSS基础选择器](CSS/CSS02/CSS_selector_02.md)
+
+3.[CSS第五天练习和作业](CSS/CSS02/CSS_test.md)
+
+
+
+
+
 
 
