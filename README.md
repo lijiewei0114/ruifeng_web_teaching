@@ -46,6 +46,30 @@
 
 3.[CSS第五天练习和作业](CSS/CSS02/CSS_test.md)
 
+### 第六天 CSS文本设置和字体样式
+
+1.[CSS第五天作业 参考答案](CSS/CSS03/CSS_02_unswer.md)
+
+2.[CSS文本设置和字体样式](CSS/CSS03/CSS_weight+font.md)
+
+3.[CSS第六天练习和作业](CSS/CSS03/CSS_test.md)
+
+### 第七天 CSS基础选择器
+
+1.[CSS第六天作业 参考答案](CSS/CSS04/CSS_03_unswer.md)
+
+2.[CSS盒子模型和定位](CSS/CSS04/CSS_box_01.md)
+
+3.[CSS第七天练习和作业](CSS/CSS04/CSS_test.md)
+
+### 第八天 
+
+1.[CSS第六天作业 参考答案](CSS/CSS04/CSS_03_unswer.md)
+
+2.[CSS盒子模型和定位](CSS/CSS04/CSS_box_01.md)
+
+3.[CSS第七天练习和作业](CSS/CSS04/CSS_test.md)
+
 
 
 
