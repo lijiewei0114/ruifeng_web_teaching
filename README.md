@@ -54,7 +54,7 @@
 
 3.[CSS第六天练习和作业](CSS/CSS03/CSS_test.md)
 
-### 第七天 CSS基础选择器
+### 第七天 CSS盒子模型和定位
 
 1.[CSS第六天作业 参考答案](CSS/CSS04/CSS_03_unswer.md)
 
@@ -62,13 +62,31 @@
 
 3.[CSS第七天练习和作业](CSS/CSS04/CSS_test.md)
 
-### 第八天 
+### 第八天 CSS背景入门 
 
-1.[CSS第六天作业 参考答案](CSS/CSS04/CSS_03_unswer.md)
+1.[CSS第七天作业 参考答案](CSS/CSS05/CSS_04_unswer.md)
 
-2.[CSS盒子模型和定位](CSS/CSS04/CSS_box_01.md)
+2.[CSS背景](CSS/CSS05/CSS_background_01.md)
 
-3.[CSS第七天练习和作业](CSS/CSS04/CSS_test.md)
+3.[CSS第八天练习和作业](CSS/CSS05/CSS_test.md)
+
+### 第九天 CSS背景补充
+
+1.[CSS第八天作业 参考答案](CSS/CSS06/CSS_05_unswer.md)
+
+2.[CSS背景补充](CSS/CSS06/CSS_background_02.md)
+
+3.[CSS第九天练习和作业](CSS/CSS06/CSS_test.md)
+
+### 第十天 CSS过渡特效/变形特效入门
+
+1.[CSS第九天作业 参考答案](CSS/CSS07/CSS_06_unswer.md)
+
+2.[CSS过渡特效](CSS/CSS07/CSS_transition.md)
+
+3.[CSS变形特效](CSS/CSS07/CSS_transform_01.md)
+
+4.[CSS第十天练习和作业](CSS/CSS07/CSS_test.md)
 
 
 
